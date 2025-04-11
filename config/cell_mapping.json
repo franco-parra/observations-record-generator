@@ -1,0 +1,123 @@
+{
+  "street_or_road": [10, 2],
+  "number": [10, 8],
+  "entry_date": [10, 11],
+  "owner_name": [12, 2],
+  "owner_email": [12, 8],
+  "entry_number": [12, 11],
+  "architect_name": [14, 2],
+  "architect_email": [14, 8],
+  "norms": {
+    "land_use": {
+      "complies": [17, 6],
+      "does_not_comply": [17, 7],
+      "not_applicable": [17, 8],
+      "observations": [17, 9]
+    },
+    "easements": {
+      "complies": [18, 6],
+      "does_not_comply": [18, 7],
+      "not_applicable": [18, 8],
+      "observations": [18, 9]
+    },
+    "grouping": {
+      "complies": [19, 6],
+      "does_not_comply": [19, 7],
+      "not_applicable": [19, 8],
+      "observations": [19, 9]
+    },
+    "construction_coefficient": {
+      "complies": [20, 6],
+      "does_not_comply": [20, 7],
+      "not_applicable": [20, 8],
+      "observations": [20, 9]
+    },
+    "land_occupation_coefficient": {
+      "complies": [21, 6],
+      "does_not_comply": [21, 7],
+      "not_applicable": [21, 8],
+      "observations": [21, 9]
+    },
+    "upper_floors_occupation_coefficient": {
+      "complies": [22, 6],
+      "does_not_comply": [22, 7],
+      "not_applicable": [22, 8],
+      "observations": [22, 9]
+    },
+    "minimum_plot_area": {
+      "complies": [23, 6],
+      "does_not_comply": [23, 7],
+      "not_applicable": [23, 8],
+      "observations": [23, 9]
+    },
+    "maximum_building_height": {
+      "complies": [24, 6],
+      "does_not_comply": [24, 7],
+      "not_applicable": [24, 8],
+      "observations": [24, 9]
+    },
+    "adjacent_building": {
+      "complies": [25, 6],
+      "does_not_comply": [25, 7],
+      "not_applicable": [25, 8],
+      "observations": [25, 9]
+    },
+    "setback": {
+      "complies": [26, 6],
+      "does_not_comply": [26, 7],
+      "not_applicable": [26, 8],
+      "observations": [26, 9]
+    },
+    "front_garden": {
+      "complies": [27, 6],
+      "does_not_comply": [27, 7],
+      "not_applicable": [27, 8],
+      "observations": [27, 9]
+    },
+    "chamfer": {
+      "complies": [28, 6],
+      "does_not_comply": [28, 7],
+      "not_applicable": [28, 8],
+      "observations": [28, 9]
+    },
+    "grade": {
+      "complies": [29, 6],
+      "does_not_comply": [29, 7],
+      "not_applicable": [29, 8],
+      "observations": [29, 9]
+    },
+    "maximum_density": {
+      "complies": [30, 6],
+      "does_not_comply": [30, 7],
+      "not_applicable": [30, 8],
+      "observations": [30, 9]
+    },
+    "parking": {
+      "complies": [31, 6],
+      "does_not_comply": [31, 7],
+      "not_applicable": [31, 8],
+      "observations": [31, 9]
+    },
+    "zoning_strips": {
+      "complies": [32, 6],
+      "does_not_comply": [32, 7],
+      "not_applicable": [32, 8],
+      "observations": [32, 9]
+    },
+    "risk_areas": {
+      "complies": [33, 6],
+      "does_not_comply": [33, 7],
+      "not_applicable": [33, 8],
+      "observations": [33, 9]
+    },
+    "occupation_density_and_contribution_calculation": {
+      "complies": [34, 6],
+      "does_not_comply": [34, 7],
+      "not_applicable": [34, 8],
+      "observations": [34, 9]
+    }
+  },
+  "review_date": [38, 4],
+  "observations_response_date": [38, 12],
+  "reviewing_architect_name": [41, 1]
+}
